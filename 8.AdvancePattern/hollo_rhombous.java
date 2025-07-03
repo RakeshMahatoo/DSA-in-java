@@ -1,6 +1,6 @@
 public class hollo_rhombous {
     public static void main(String[] src){
-        hollow_rhombous(5);
+        hollow_rhombous(6);
     }
 
     public static void hollow_rhombous(int n) {
